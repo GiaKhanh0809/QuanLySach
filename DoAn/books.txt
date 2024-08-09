@@ -1,0 +1,195 @@
+B001
+Lap Trinh C Co Ban
+Nguyen Van A
+NXB Giao Duc
+2015
+Sach Giao Khoa
+
+B002
+Lap Trinh C Nang Cao
+Nguyen Van A
+NXB Giao Duc
+2016
+Sach Tham Khao
+
+B003
+Lap Trinh Java Co Ban
+Tran Van B
+NXB Tre
+2017
+Giao Trinh
+
+B004
+Lap Trinh Java Nang Cao
+Tran Van B
+NXB Tre
+2018
+Tai Lieu Hoc Tap
+
+B005
+Giai Tich 1
+Le Thi C
+NXB DHQG
+2015
+Sach Chuyen Khao
+
+B006
+Giai Tich 2
+Le Thi C
+NXB DHQG
+2016
+Sach Hoc Thuat
+
+B007
+Dai So Tuyen Tinh
+Pham Van D
+NXB Giao Duc
+2014
+Sach Giao Khoa
+
+B008
+Hoa Hoc Huu Co
+Nguyen Van E
+NXB Giao Duc
+2015
+Sach Tham Khao
+
+B009
+Vat Ly Dai Cuong 1
+Tran Thi F
+NXB DHQG
+2016
+Giao Trinh
+
+B010
+Vat Ly Dai Cuong 2
+Tran Thi F
+NXB DHQG
+2017
+Tai Lieu Giang Day
+
+B011
+Sinh Hoc Co Ban
+Nguyen Van G
+NXB Giao Duc
+2018
+Sach Giao Khoa
+
+B012
+Lap Trinh Python
+Nguyen Van H
+NXB Tre
+2019
+Tai Lieu Hoc Tap
+
+B013
+Lap Trinh Web
+Pham Van I
+NXB Giao Duc
+2020
+Sach Tham Khao
+
+B014
+Cau Truc Du Lieu va Giai Thuat
+Nguyen Van J
+NXB Tre
+2015
+Sach Chuyen Khao
+
+B015
+Phat Trien Ung Dung Di Dong
+Tran Van K
+NXB DHQG
+2016
+Tai Lieu Hoc Tap
+
+B016
+Toan Cao Cap 1
+Hoang Kiem
+NXB Tre
+2015
+Giao Trinh
+
+B017
+Toan Cao Cap 2
+Hoang Kiem
+NXB Tre
+2016
+Sach Hoc Thuat
+
+B018
+Lap Trinh C++ Co Ban
+Hoang Kiem
+NXB Tre
+2017
+Sach Giao Khoa
+
+B019
+Lap Trinh C++ Nang Cao
+Hoang Kiem
+NXB Tre
+2018
+Sach Tham Khao
+
+B020
+He Dieu Hanh
+Hoang Kiem
+NXB Bo GDDT
+2019
+Tai Lieu Giang Day
+
+B021
+Kien Truc May Tinh
+Hoang Kiem
+NXB Bo GDDT
+2020
+Sach Chuyen Khao
+
+B022
+Cau Truc Du Lieu
+Hoang Kiem
+NXB Bo GDDT
+2021
+Sach Hoc Thuat
+
+B023
+Lap Trinh C Nang Cao
+Hoang Kiem
+NXB DHQG
+2022
+Tai Lieu Hoc Tap
+
+B024
+Lap Trinh C Sharp
+Nguyen Van L
+NXB DHQG
+2020
+Giao Trinh
+
+B025
+Lap Trinh PHP
+Nguyen Van M
+NXB KHKT
+2021
+Giao Trinh
+
+B026
+Lap Trinh JavaScript
+Nguyen Van N
+NXB KHKT
+2022
+Tai Lieu Hoc Tap
+
+B027
+An Ninh Mang
+Nguyen Van O
+NXB Tre
+2019
+Giao Trinh
+
+B028
+Tri Tue Nhan Tao
+Nguyen Van P
+NXB DHQG
+2023
+Sach Tham Khao
